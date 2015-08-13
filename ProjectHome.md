@@ -1,0 +1,1 @@
+Sistema para gerenciar as contas de usuario e planos de hospedagem, faturas e cobrancas. implemantado em JAVA para solucionar os problemas referentes ao citado acima.
